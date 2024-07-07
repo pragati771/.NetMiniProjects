@@ -1,0 +1,6 @@
+@FullStackPK_HostAddress = http://localhost:5142
+
+GET http://localhost:5142/product/
+Accept: application/json
+
+###
